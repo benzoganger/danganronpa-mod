@@ -1,0 +1,163 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DanganRonpaFloor",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dangan_ronpa_floor"
+    },
+    {
+      "name": "DanganRonpaWalls",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dangan_ronpa_walls"
+    },
+    {
+      "name": "Tiles",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tiles"
+    },
+    {
+      "name": "HorizontalStripedWallsLower",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "horizontal_striped_walls_lower"
+    },
+    {
+      "name": "HorizontalStripedWallsUpper",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "horizontal_striped_walls_upper"
+    },
+    {
+      "name": "VerticalStripedWallsLeftUp",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vertical_striped_walls_left_up"
+    },
+    {
+      "name": "VerticalStripedWallsLeftDown",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vertical_striped_walls_left_down"
+    },
+    {
+      "name": "VerticalStripedWallsRightUP",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vertical_striped_walls_right_up"
+    },
+    {
+      "name": "VerticalStripedWallsRightDown",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vertical_striped_walls_right_down"
+    },
+    {
+      "name": "StraightWall",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "straight_wall"
+    },
+    {
+      "name": "HorizontalStripedWallEash",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "horizontal_striped_wall_eash"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "monokuma",
+      "files": [],
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.danganronpa_mod.horizontal_striped_walls_lower": "Горизонтальная Нижняя Полоса",
+      "block.danganronpa_mod.horizontal_striped_walls_upper": "Горизонтальная Верхняя Полоса",
+      "tile.horizontal_striped_walls_upper.name": "Горизонтальная Верхняя Полоса",
+      "subtitles.monokuma": "",
+      "tile.vertical_striped_walls_right_down.name": "Правая Нижняя Вертикальная Полоса",
+      "block.danganronpa_mod.tiles": "Пол",
+      "item.danganronpa_mod.monogun": "Monogun",
+      "tile.vertical_striped_walls_left_down.name": "Левая Нижняя Вертикальная Полоса",
+      "block.danganronpa_mod.vertical_striped_walls_left_up": "Левая Верхняя Вертикальная Полоса",
+      "block.danganronpa_mod.vertical_striped_walls_right_down": "Правая Нижняя Вертикальная Полоса",
+      "tile.tiles.name": "Пол",
+      "tile.vertical_striped_walls_left_up.name": "Левая Верхняя Вертикальная Полоса",
+      "tile.horizontal_striped_walls_lower.name": "Горизонтальная Нижняя Полоса",
+      "block.danganronpa_mod.vertical_striped_walls_left_down": "Левая Нижняя Вертикальная Полоса",
+      "block.danganronpa_mod.horizontal_striped_wall_eash": "Горизонтальные полосы",
+      "itemGroup.tabdangan_ronpa_floor": "Пол",
+      "tile.vertical_striped_walls_right_up.name": "Правая Верхняя Вертикальная Полоса",
+      "block.danganronpa_mod.straight_wall": "Стена",
+      "tile.straight_wall.name": "Стена",
+      "block.danganronpa_mod.vertical_striped_walls_right_up": "Правая Верхняя Вертикальная Полоса",
+      "itemGroup.tabdangan_ronpa_walls": "Стены",
+      "tile.horizontal_striped_wall_eash.name": "Горизонтальные полосы"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "danganronpa_mod",
+    "modName": "DanganRonpa Mod ",
+    "version": "0.01alpha",
+    "description": "Mod that ables you to see and interact with DanganRonpa creatures and textures",
+    "author": "benzoganger, sxcred",
+    "websiteURL": "https://vk.com/disk01",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "dangan_ronpa_walls",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "We created this mod just for fun :D",
+    "modElementsPackage": "benzoganger.sxcred.danganronpa",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

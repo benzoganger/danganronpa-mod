@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "danganronpa_mod:blocks/straight_wall",
+    "up": "danganronpa_mod:blocks/straight_wall",
+    "north": "danganronpa_mod:blocks/straight_wall",
+    "east": "danganronpa_mod:blocks/straight_wall",
+    "south": "danganronpa_mod:blocks/straight_wall",
+    "west": "danganronpa_mod:blocks/straight_wall",
+    "particle": "danganronpa_mod:blocks/straight_wall"
+  }
+}

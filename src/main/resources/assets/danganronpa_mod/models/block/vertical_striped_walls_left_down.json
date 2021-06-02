@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "danganronpa_mod:blocks/quartz_block_bottom",
+    "up": "danganronpa_mod:blocks/quartz_block_bottom",
+    "north": "danganronpa_mod:blocks/horizontal_left_vertical_stripe2",
+    "east": "danganronpa_mod:blocks/horizontal_left_vertical_stripe2",
+    "south": "danganronpa_mod:blocks/horizontal_left_vertical_stripe2",
+    "west": "danganronpa_mod:blocks/horizontal_left_vertical_stripe2",
+    "particle": "danganronpa_mod:blocks/quartz_block_bottom"
+  }
+}
